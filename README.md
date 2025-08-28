@@ -2,4 +2,6 @@
 My First Repo
 
 
-This is a line that was changed by someone else.
+This is a line that was changed by me locally.
+
+We changed this line locally.
