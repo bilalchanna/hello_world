@@ -1,7 +1,9 @@
 # hello_world
 My First Repo
+ 
 
+This is a line that was changed by someone else.
 
-This is a line that was changed by me locally.
+This is my second feature - branch 2
 
-We changed this line locally.
+and I continue to work on it
